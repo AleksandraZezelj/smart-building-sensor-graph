@@ -8,7 +8,7 @@ Developed as a coursework assignment for the Algorithms and Data Structures cour
 
 - Linear Congruential Generator (LCG) for pseudo-random number generation
 - Linearized adjacency list as the graph representation
-- 
+
 ## Features
 
 ### Sensor Generation
